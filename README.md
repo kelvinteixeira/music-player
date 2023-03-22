@@ -2,7 +2,7 @@
 
 ## Sobre o projeto:
 
-Aplicação com o propósito de reproduzir uma lista de musica diários. Apenass com intuito de aprendizado.
+Aplicação com o propósito de reproduzir uma lista de musica. Apenas com intuito de aprendizado.
 
 <div align="center">
   <img src="/src/assets/Covers/cover1.png">
