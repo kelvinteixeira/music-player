@@ -5,8 +5,8 @@
 Aplicação com o propósito de reproduzir uma lista de musica diários. Apenass com intuito de aprendizado.
 
 <div align="center">
-  <img src="./cover1.png">
-  <img src="./cover2.png">
+  <img src="/src/assets/Covers/cover1.png">
+  <img src="/src/assets/Covers/cover2.png">
 </div>
 
 #### <div align="right">- Projeto Finalizado 🟢 <div>
